@@ -21,6 +21,5 @@ Developed an automated system to classify the severity of Diabetic Retinopathy (
 
 ## 📂 Repository Structure
 ├── notebooks/          # Jupyter notebooks for experimentation
-├── src/                # Source code for model training and inference
 ├── requirements.txt    # List of dependencies
 └── README.md           # Project documentation
