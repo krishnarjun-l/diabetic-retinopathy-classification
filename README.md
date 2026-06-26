@@ -7,6 +7,8 @@ Developed an automated system to classify the severity of Diabetic Retinopathy (
 * **Source:** Kaggle Diabetic Retinopathy Detection 
 * **Size:** 35,108 high-resolution fundus images 
 * **Pre-processing:** Image resizing, normalization, and data augmentation to handle class imbalance.
+https://www.kaggle.com/datasets/tanlikesmath/diabetic-retinopathy-resized
+
 
 ## 🛠️ Tech Stack
 * **Language:** Python 
