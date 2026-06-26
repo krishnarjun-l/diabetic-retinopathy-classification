@@ -20,7 +20,9 @@ Developed an automated system to classify the severity of Diabetic Retinopathy (
 * **Insight:** Conducted comparative analysis between various CNN architectures to identify the most robust model for medical imaging.
 
 ## 📂 Repository Structure
-* notebook          # Jupyter notebooks for experimentation
-* README.md           # Project documentation
-* requirements.txt    # List of dependencies
+```
+├── Classification_of_diabetic_Retinopathy.ipynb
+├── requirements.txt
+└── README.md
+```
 
